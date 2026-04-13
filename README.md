@@ -4,3 +4,8 @@ I created an array that goes up from 10 to 50 by using a fop loop which starts f
 <img width="1585" height="727" alt="image" src="https://github.com/user-attachments/assets/cde4288c-409d-43b6-a619-22eb9daf1cd5" />
 <img width="380" height="459" alt="image" src="https://github.com/user-attachments/assets/f5ed965d-1dbf-45dd-a404-d1b13497588f" />
 In this task i created an array where a user inputs 5 numbers and then prints them out. This was done using the scanner input and a for loop to allow the user to enter 5 numbers.
+
+
+<img width="1052" height="938" alt="image" src="https://github.com/user-attachments/assets/341bc9a3-899a-4986-a81a-2c4511fc5b99" />
+<img width="300" height="238" alt="image" src="https://github.com/user-attachments/assets/c1fa64bb-4295-4f65-bd8f-37252dc805ae" />
+I created an array to stroe user input values and i added a loop to cauclate the total sum. The average was calculated by using typer casting so it gives a decimal result and i made minor syntax errors such as missing semi colons at the end of the code line.

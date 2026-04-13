@@ -9,3 +9,7 @@ In this task i created an array where a user inputs 5 numbers and then prints th
 <img width="1052" height="938" alt="image" src="https://github.com/user-attachments/assets/341bc9a3-899a-4986-a81a-2c4511fc5b99" />
 <img width="300" height="238" alt="image" src="https://github.com/user-attachments/assets/c1fa64bb-4295-4f65-bd8f-37252dc805ae" />
 I created an array to stroe user input values and i added a loop to cauclate the total sum. The average was calculated by using typer casting so it gives a decimal result and i made minor syntax errors such as missing semi colons at the end of the code line.
+
+<img width="1281" height="941" alt="image" src="https://github.com/user-attachments/assets/6da7518d-efee-4ba4-9097-37b350349f2b" />
+<img width="310" height="246" alt="image" src="https://github.com/user-attachments/assets/865458bb-392c-45a0-9e40-92dcd929c37b" />
+I created an array to store user input values and i used a loop to compare each value in the arrau to show the highest and lowest numbers. The first value of the array was used as an inital reference point and conditional statements were used to update the value if a larger or smaller value was found.

@@ -13,3 +13,6 @@ I created an array to stroe user input values and i added a loop to cauclate the
 <img width="1281" height="941" alt="image" src="https://github.com/user-attachments/assets/6da7518d-efee-4ba4-9097-37b350349f2b" />
 <img width="310" height="246" alt="image" src="https://github.com/user-attachments/assets/865458bb-392c-45a0-9e40-92dcd929c37b" />
 I created an array to store user input values and i used a loop to compare each value in the arrau to show the highest and lowest numbers. The first value of the array was used as an inital reference point and conditional statements were used to update the value if a larger or smaller value was found.
+
+<img width="1077" height="857" alt="image" src="https://github.com/user-attachments/assets/7ad7bc3e-8d1d-40aa-8378-2f51cde3d976" />
+<img width="481" height="206" alt="image" src="https://github.com/user-attachments/assets/23ef62b0-d52b-4900-bacd-4b1a24f7049e" />

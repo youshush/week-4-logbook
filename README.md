@@ -21,3 +21,7 @@ I created an array to store 5 user inputs and i used a loop to count how many nu
 <img width="1099" height="838" alt="image" src="https://github.com/user-attachments/assets/83025241-ee98-48c6-b9d7-7433c4c6421a" />
 <img width="428" height="223" alt="image" src="https://github.com/user-attachments/assets/bac5029c-9e40-496e-8773-39b477d5646e" />
 This is the same as the previous module but i just changed it to make it odd numbers instead and i did this by changing the operator to != instead of ==.
+
+<img width="1523" height="689" alt="image" src="https://github.com/user-attachments/assets/9022eb5e-1850-43f5-9556-64b42b09cbce" />
+<img width="339" height="255" alt="image" src="https://github.com/user-attachments/assets/b341fd56-fad5-46e0-99cf-2838caf037f8" />
+Instead of an array i created an arraylist to store values and i used the add method to insert the values into the list and i used a loop to iterate through the numbers using the size method. I used the get method to access each number and this showed the advantages of using dynamic data structures.

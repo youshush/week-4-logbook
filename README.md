@@ -25,3 +25,11 @@ This is the same as the previous module but i just changed it to make it odd num
 <img width="1523" height="689" alt="image" src="https://github.com/user-attachments/assets/9022eb5e-1850-43f5-9556-64b42b09cbce" />
 <img width="339" height="255" alt="image" src="https://github.com/user-attachments/assets/b341fd56-fad5-46e0-99cf-2838caf037f8" />
 Instead of an array i created an arraylist to store values and i used the add method to insert the values into the list and i used a loop to iterate through the numbers using the size method. I used the get method to access each number and this showed the advantages of using dynamic data structures.
+
+<img width="1238" height="681" alt="image" src="https://github.com/user-attachments/assets/64131664-cb5f-4eb7-a62c-2959eafc791c" />
+<img width="552" height="144" alt="image" src="https://github.com/user-attachments/assets/a8dc5fca-c0bc-4320-84f9-8f1aacafa845" />
+In this array list i added and removed numbers and i used the add method to insert values into the list and the remove method to delete a value by its index place.
+
+<img width="1149" height="634" alt="image" src="https://github.com/user-attachments/assets/aaee1f1e-ce77-4a72-806b-7806578fb564" />
+<img width="310" height="122" alt="image" src="https://github.com/user-attachments/assets/e436e376-9035-4100-805a-ecb5294f0aa7" />
+I created an arraylist with a combination of a loop and a conditional statement to filter the numbers. The program went through thr list using a for loop and the the condition applied checked if its an even number using the modulus operator. If the conditions were met it would output even numbers only.

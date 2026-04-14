@@ -16,3 +16,4 @@ I created an array to store user input values and i used a loop to compare each 
 
 <img width="1077" height="857" alt="image" src="https://github.com/user-attachments/assets/7ad7bc3e-8d1d-40aa-8378-2f51cde3d976" />
 <img width="481" height="206" alt="image" src="https://github.com/user-attachments/assets/23ef62b0-d52b-4900-bacd-4b1a24f7049e" />
+I created an array to store 5 user inputs and i used a loop to count how many numbers were even. I uaed the modulus operative to determine which numbers where divisible by 2 to show that its an even number and i created a counter variable to increment each time an even number was found.

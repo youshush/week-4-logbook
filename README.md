@@ -17,3 +17,7 @@ I created an array to store user input values and i used a loop to compare each 
 <img width="1077" height="857" alt="image" src="https://github.com/user-attachments/assets/7ad7bc3e-8d1d-40aa-8378-2f51cde3d976" />
 <img width="481" height="206" alt="image" src="https://github.com/user-attachments/assets/23ef62b0-d52b-4900-bacd-4b1a24f7049e" />
 I created an array to store 5 user inputs and i used a loop to count how many numbers were even. I uaed the modulus operative to determine which numbers where divisible by 2 to show that its an even number and i created a counter variable to increment each time an even number was found.
+
+<img width="1099" height="838" alt="image" src="https://github.com/user-attachments/assets/83025241-ee98-48c6-b9d7-7433c4c6421a" />
+<img width="428" height="223" alt="image" src="https://github.com/user-attachments/assets/bac5029c-9e40-496e-8773-39b477d5646e" />
+This is the same as the previous module but i just changed it to make it odd numbers instead and i did this by changing the operator to != instead of ==.

@@ -33,3 +33,8 @@ In this array list i added and removed numbers and i used the add method to inse
 <img width="1149" height="634" alt="image" src="https://github.com/user-attachments/assets/aaee1f1e-ce77-4a72-806b-7806578fb564" />
 <img width="310" height="122" alt="image" src="https://github.com/user-attachments/assets/e436e376-9035-4100-805a-ecb5294f0aa7" />
 I created an arraylist with a combination of a loop and a conditional statement to filter the numbers. The program went through thr list using a for loop and the the condition applied checked if its an even number using the modulus operator. If the conditions were met it would output even numbers only.
+
+<img width="929" height="565" alt="image" src="https://github.com/user-attachments/assets/566e28de-2655-4e17-9ddb-4eca3a30032c" />
+<img width="1149" height="282" alt="image" src="https://github.com/user-attachments/assets/77ba19ea-14a6-408e-92d1-fe66b4956d3c" />
+<img width="257" height="112" alt="image" src="https://github.com/user-attachments/assets/26acda30-a2c7-40b6-ac9c-0742b1082f75" />
+I created a product class with the name and price attributes and i used a constructor to initialise them. I used a print method to display the product details and i encoutered an error with object creation outside a method and this was fixed by using a seperate main class.
